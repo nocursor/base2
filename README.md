@@ -162,4 +162,4 @@ def deps do
 end
 ```
 
-API Documentation can be found at [https://hexdocs.pm/base2/base2.html](https://hexdocs.pm/basefiftyeight/base2.html).
+API Documentation can be found at [https://hexdocs.pm/base2/Base2.html](https://hexdocs.pm/base2/Base2.html).
